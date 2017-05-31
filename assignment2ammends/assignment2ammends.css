@@ -1,0 +1,58 @@
+*{
+	padding:0;
+	margin:0;
+	background-color: lightgrey;
+}
+.decor{
+	background-color:white;
+	position:absolute;
+	top:30%;
+	left:30%;
+	border:2px solid black;
+	margin-right:43%;
+	padding:10px;
+}
+.h2{
+    background-color:white;
+	position:absolute;
+    text-align: right;
+	top:2%;
+	left:43%;
+}
+.extra{
+	background-color:white;
+	padding:1%;
+}
+p{
+	background-color:white;
+	padding:3%;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.adjust{
+	margin-left: 1%
+}
+h2{
+	margin:0;
+	padding:0;
+	background-color:white;
+}
+img{
+	background-color:white;
+}
+input{
+	background-color:white;
+}
+button{
+	margin:0;
+	padding:0;
+	background-color:white;
+}
+textarea{
+	background-color:white;
+}
+a{
+	text-decoration: underline;
+	color: blue;
+	background-color:white;
+}
